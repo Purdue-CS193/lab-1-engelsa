@@ -9,6 +9,6 @@ My favorite things about CS193 include the following:
 
 ```markdown
 
-Howdy
+word box
 
 ```
