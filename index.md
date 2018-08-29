@@ -1,9 +1,8 @@
 ## Alex Engels's First CS193 Lab
 
-My favorite things about CS193 include the following:
-- 
 
-### Markdown
+My favorite things about CS193 include the following:
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
